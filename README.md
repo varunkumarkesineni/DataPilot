@@ -11,7 +11,7 @@
 ![Cloud Run](https://img.shields.io/badge/Deploy-Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Live demo:** _add your Cloud Run URL here after deployment_
+
 
 ---
 
