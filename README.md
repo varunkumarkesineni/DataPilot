@@ -1,4 +1,4 @@
-# DataPilot AI — Agentic Data Analyst
+# DataPilot AI - Agentic Data Analyst
 
 > **Upload data. Ask questions. Let an AI agent analyze it.**
 
