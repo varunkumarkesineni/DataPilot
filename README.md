@@ -327,15 +327,7 @@ Error messages never include API keys or credentials.
 
 **Out of scope:** forecasting, causal "why" questions, joins across files, and anything that needs columns that do not exist.
 
-## 15. Screenshots
-
-> Add screenshots after running the app and save them in `docs/screenshots/`.
-
-| Home | Answer | Agent workflow | History |
-|---|---|---|---|
-| ![Home](docs/screenshots/home.png) | ![Answer](docs/screenshots/answer.png) | ![Workflow](docs/screenshots/workflow.png) | ![History](docs/screenshots/history.png) |
-
-## 16. Local Setup
+## 15. Local Setup
 
 **Prerequisites:** Python 3.11+, Git, and (optionally) Docker and the Google Cloud CLI.
 
@@ -393,7 +385,7 @@ docker run --rm -p 8080:8080 --env-file .env datapilot-ai
 
 Open **http://localhost:8080**. Firestore will show a warning locally because the container has no Google credentials; this is resolved on Cloud Run by the service account.
 
-## 17. Testing and Quality Checklist
+## 16. Testing and Quality Checklist
 
 Run through this list before publishing.
 
@@ -434,7 +426,7 @@ Run through this list before publishing.
 | Top 5 products | Laptop, Smartphone, Headphones, Office Chair, Standing Desk |
 | Unusual values | 25 rows flagged by the IQR rule |
 
-## 18. Firestore Setup
+## 17. Firestore Setup
 
 1. Create a Firestore database in **Native mode**. The location cannot be changed afterwards.
 
@@ -547,7 +539,7 @@ Replace `--set-secrets ...` with `--set-env-vars GEMINI_API_KEY=YOUR_KEY,GOOGLE_
 gcloud run services delete datapilot-ai --region asia-south1
 ```
 
-## 20. Publishing to GitHub
+## 19. Publishing to GitHub
 
 ```bash
 git init
@@ -572,7 +564,7 @@ Create the empty repository on GitHub first (no README, `.gitignore` or license,
 - Add the live demo URL at the top of this README
 - Set a repository description and topics (`streamlit`, `gemini`, `pandas`, `firestore`, `cloud-run`, `agentic-ai`)
 
-## 21. Environment Variables
+## 20. Environment Variables
 
 | Variable | Required | Description |
 |---|---|---|
@@ -584,7 +576,7 @@ Create the empty repository on GitHub first (no README, `.gitignore` or license,
 
 `.env` is listed in both `.gitignore` and `.dockerignore`. Only `.env.example` is committed.
 
-## 22. Security and Cost Notes
+## 21. Security and Cost Notes
 
 - **No hardcoded secrets.** The Gemini key comes from the environment (or Secret Manager on Cloud Run).
 - **No LLM-generated code is executed.** Gemini only returns a classification and text; all computation uses fixed Pandas functions.
@@ -595,7 +587,7 @@ Create the empty repository on GitHub first (no README, `.gitignore` or license,
 - **Shared history.** Without authentication, all users of one deployment see the same history.
 - **Cost control.** Cloud Run scales to zero when idle; Gemini calls happen only on analysis. Delete the service when you are finished demonstrating.
 
-## 23. Sample Dataset
+## 22. Sample Dataset
 
 `sample_data/sales.csv` contains **293 orders** across calendar year 2025.
 
@@ -614,7 +606,7 @@ Designed to demonstrate aggregation, filtering, comparison, ranking, trends and 
 - A seasonal pattern with a strong fourth quarter and a weak February
 - Two deliberate bulk orders (a Standing Desk order in March and a Laptop order in July) so the "unusual values" analysis has something to find
 
-## 24. Troubleshooting
+## 23. Troubleshooting
 
 | Problem | Fix |
 |---|---|
@@ -631,7 +623,7 @@ Designed to demonstrate aggregation, filtering, comparison, ranking, trends and 
 | Cloud Run page loads forever | Check logs with `gcloud run services logs read datapilot-ai --region asia-south1`. |
 | Question returns "couldn't answer" | Rephrase using a column name or an example from [Example Questions](#14-example-questions), and open "How the Agent Worked" to see why. |
 
-## 25. Limitations
+## 24. Limitations
 
 - Supports a fixed set of analysis types rather than arbitrary questions.
 - One CSV at a time; no joins across files.
@@ -642,7 +634,7 @@ Designed to demonstrate aggregation, filtering, comparison, ranking, trends and 
 - Analysis is capped at 200,000 rows.
 - Gemini explanations depend on API availability and quota.
 
-## 26. Future Improvements
+## 25. Future Improvements
 
 - Multiple file support
 - SQL database support
@@ -654,7 +646,7 @@ Designed to demonstrate aggregation, filtering, comparison, ranking, trends and 
 - Richer filters (ranges, dates, multiple conditions)
 - Automated test suite and CI pipeline
 
-## 27. Author
+## 26. Author
 
 **Varun Kumar Kesineni**
 
