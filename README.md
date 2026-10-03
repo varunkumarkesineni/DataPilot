@@ -362,7 +362,7 @@ streamlit run app.py
 In `.env`, replace the placeholder with your real key from [Google AI Studio](https://aistudio.google.com/apikey):
 
 ```env
-GEMINI_API_KEY=your_real_key_here
+GEMINI_API_KEY="AQ.Ab8RN6Jd-HFblgEf1trsg3PaTLRYgSoXXXXXXXXXXXXXXXXX-xxx"
 ```
 
 The app opens at **http://localhost:8501**.
@@ -448,7 +448,7 @@ Run through this list before publishing.
 
 3. Authentication uses **Application Default Credentials**. On Cloud Run this is the service account; locally use `gcloud auth application-default login`. No credential files are committed to the repository.
 
-## 19. Google Cloud Run Deployment
+## 18. Google Cloud Run Deployment
 
 Replace `PROJECT_ID` with your project ID. `asia-south1` (Mumbai) is used as the region.
 
