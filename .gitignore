@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.json.key
+service-account*.json
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

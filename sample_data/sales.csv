@@ -1,0 +1,294 @@
+Date,Product,Category,Region,Quantity,Unit_Price,Revenue
+2025-01-01,Office Chair,Furniture,West,7,174.97,1224.79
+2025-01-02,Notebook Pack,Stationery,East,34,11.49,390.66
+2025-01-08,Smartphone,Electronics,South,5,602.62,3013.1
+2025-01-10,Pen Set,Stationery,East,56,8.06,451.36
+2025-01-11,Monitor,Electronics,North,3,230.45,691.35
+2025-01-11,Pen Set,Stationery,West,39,8.26,322.14
+2025-01-13,Smartphone,Electronics,West,5,605.4,3027.0
+2025-01-14,Laptop,Electronics,North,2,850.46,1700.92
+2025-01-19,Monitor,Electronics,West,2,244.76,489.52
+2025-01-19,Pen Set,Stationery,South,73,7.92,578.16
+2025-01-21,Smartphone,Electronics,West,2,602.84,1205.68
+2025-01-23,Laptop,Electronics,East,3,891.24,2673.72
+2025-01-23,Pen Set,Stationery,East,31,8.03,248.93
+2025-01-24,Smartphone,Electronics,West,5,594.39,2971.95
+2025-01-26,Headphones,Electronics,South,5,98.92,494.6
+2025-01-27,Headphones,Electronics,South,5,96.62,483.1
+2025-01-28,Monitor,Electronics,North,3,238.88,716.64
+2025-02-02,Pen Set,Stationery,North,30,8.23,246.9
+2025-02-04,Pen Set,Stationery,West,49,7.79,381.71
+2025-02-08,Pen Set,Stationery,North,73,7.67,559.91
+2025-02-08,Pen Set,Stationery,West,20,8.19,163.8
+2025-02-14,Office Chair,Furniture,South,8,180.52,1444.16
+2025-02-14,Smartphone,Electronics,North,3,649.26,1947.78
+2025-02-16,Pen Set,Stationery,North,77,8.3,639.1
+2025-02-17,Office Chair,Furniture,North,3,180.71,542.13
+2025-02-18,Monitor,Electronics,East,5,237.59,1187.95
+2025-02-18,Pen Set,Stationery,North,24,8.15,195.6
+2025-02-18,Notebook Pack,Stationery,West,31,11.53,357.43
+2025-02-21,Headphones,Electronics,South,5,97.33,486.65
+2025-02-25,Smartphone,Electronics,West,3,641.18,1923.54
+2025-02-25,Pen Set,Stationery,West,51,7.99,407.49
+2025-02-27,Laptop,Electronics,West,2,818.41,1636.82
+2025-03-01,Pen Set,Stationery,South,68,7.83,532.44
+2025-03-02,Monitor,Electronics,West,3,229.7,689.1
+2025-03-03,Pen Set,Stationery,West,31,7.93,245.83
+2025-03-04,Monitor,Electronics,North,4,231.36,925.44
+2025-03-06,Monitor,Electronics,North,1,238.64,238.64
+2025-03-08,Monitor,Electronics,South,5,231.18,1155.9
+2025-03-09,Standing Desk,Furniture,North,45,415.0,18675.0
+2025-03-10,Smartphone,Electronics,North,5,592.78,2963.9
+2025-03-11,Laptop,Electronics,East,2,812.33,1624.66
+2025-03-13,Pen Set,Stationery,East,66,8.32,549.12
+2025-03-14,Pen Set,Stationery,West,35,8.17,285.95
+2025-03-14,Headphones,Electronics,West,2,96.65,193.3
+2025-03-15,Smartphone,Electronics,North,3,590.3,1770.9
+2025-03-16,Smartphone,Electronics,South,1,599.21,599.21
+2025-03-17,Laptop,Electronics,North,1,864.89,864.89
+2025-03-18,Monitor,Electronics,North,1,244.99,244.99
+2025-03-21,Smartphone,Electronics,South,3,638.64,1915.92
+2025-03-23,Pen Set,Stationery,West,72,7.72,555.84
+2025-03-26,Headphones,Electronics,North,12,94.34,1132.08
+2025-03-28,Pen Set,Stationery,North,79,8.27,653.33
+2025-03-30,Pen Set,Stationery,East,41,8.23,337.43
+2025-04-01,Headphones,Electronics,West,3,90.95,272.85
+2025-04-05,Monitor,Electronics,West,6,241.28,1447.68
+2025-04-07,Notebook Pack,Stationery,South,26,11.87,308.62
+2025-04-07,Standing Desk,Furniture,North,3,436.0,1308.0
+2025-04-07,Notebook Pack,Stationery,East,32,12.34,394.88
+2025-04-08,Headphones,Electronics,West,11,92.59,1018.49
+2025-04-09,Monitor,Electronics,North,3,232.89,698.67
+2025-04-11,Notebook Pack,Stationery,East,26,11.59,301.34
+2025-04-15,Office Chair,Furniture,South,1,173.01,173.01
+2025-04-19,Office Chair,Furniture,South,1,176.55,176.55
+2025-04-20,Laptop,Electronics,North,3,886.95,2660.85
+2025-04-21,Pen Set,Stationery,East,42,8.32,349.44
+2025-04-22,Notebook Pack,Stationery,South,58,12.52,726.16
+2025-04-22,Pen Set,Stationery,South,23,8.35,192.05
+2025-04-23,Monitor,Electronics,West,6,240.69,1444.14
+2025-04-28,Laptop,Electronics,East,3,811.25,2433.75
+2025-04-29,Monitor,Electronics,South,4,248.01,992.04
+2025-04-29,Notebook Pack,Stationery,North,12,12.4,148.8
+2025-04-29,Pen Set,Stationery,West,15,8.32,124.8
+2025-04-29,Pen Set,Stationery,West,29,8.34,241.86
+2025-05-01,Smartphone,Electronics,West,4,638.74,2554.96
+2025-05-04,Headphones,Electronics,North,9,92.36,831.24
+2025-05-06,Office Chair,Furniture,South,1,176.47,176.47
+2025-05-07,Headphones,Electronics,North,12,99.0,1188.0
+2025-05-07,Headphones,Electronics,West,12,97.36,1168.32
+2025-05-07,Headphones,Electronics,East,12,93.31,1119.72
+2025-05-08,Pen Set,Stationery,West,32,8.31,265.92
+2025-05-09,Headphones,Electronics,East,12,99.57,1194.84
+2025-05-10,Monitor,Electronics,North,1,229.11,229.11
+2025-05-15,Headphones,Electronics,North,9,97.79,880.11
+2025-05-18,Headphones,Electronics,North,6,91.95,551.7
+2025-05-20,Headphones,Electronics,West,6,95.07,570.42
+2025-05-22,Smartphone,Electronics,South,1,648.95,648.95
+2025-05-22,Headphones,Electronics,South,6,95.52,573.12
+2025-05-22,Notebook Pack,Stationery,South,58,11.68,677.44
+2025-05-26,Headphones,Electronics,East,10,91.35,913.5
+2025-05-27,Pen Set,Stationery,South,39,7.78,303.42
+2025-05-28,Notebook Pack,Stationery,North,20,12.34,246.8
+2025-05-29,Office Chair,Furniture,North,7,171.03,1197.21
+2025-05-30,Notebook Pack,Stationery,West,57,12.28,699.96
+2025-05-31,Pen Set,Stationery,North,65,7.88,512.2
+2025-05-31,Notebook Pack,Stationery,North,15,11.74,176.1
+2025-06-08,Smartphone,Electronics,West,1,637.26,637.26
+2025-06-08,Smartphone,Electronics,West,5,617.8,3089.0
+2025-06-08,Monitor,Electronics,North,3,233.63,700.89
+2025-06-09,Headphones,Electronics,North,7,96.6,676.2
+2025-06-11,Headphones,Electronics,East,4,91.68,366.72
+2025-06-11,Office Chair,Furniture,South,4,185.99,743.96
+2025-06-13,Notebook Pack,Stationery,West,14,11.9,166.6
+2025-06-13,Pen Set,Stationery,East,12,8.29,99.48
+2025-06-13,Pen Set,Stationery,West,63,8.03,505.89
+2025-06-14,Smartphone,Electronics,South,1,605.13,605.13
+2025-06-15,Notebook Pack,Stationery,West,48,11.78,565.44
+2025-06-16,Office Chair,Furniture,West,8,178.46,1427.68
+2025-06-18,Monitor,Electronics,West,4,231.2,924.8
+2025-06-20,Office Chair,Furniture,West,1,172.51,172.51
+2025-06-21,Office Chair,Furniture,West,7,179.9,1259.3
+2025-06-24,Office Chair,Furniture,East,4,179.79,719.16
+2025-06-25,Pen Set,Stationery,East,74,7.94,587.56
+2025-06-25,Monitor,Electronics,East,5,239.63,1198.15
+2025-06-25,Office Chair,Furniture,South,6,176.38,1058.28
+2025-06-26,Headphones,Electronics,North,9,98.99,890.91
+2025-06-30,Office Chair,Furniture,West,8,179.1,1432.8
+2025-07-01,Pen Set,Stationery,East,58,7.92,459.36
+2025-07-03,Notebook Pack,Stationery,East,58,11.44,663.52
+2025-07-03,Standing Desk,Furniture,South,4,433.54,1734.16
+2025-07-04,Headphones,Electronics,South,9,96.97,872.73
+2025-07-08,Smartphone,Electronics,North,2,603.79,1207.58
+2025-07-09,Notebook Pack,Stationery,North,48,12.56,602.88
+2025-07-09,Office Chair,Furniture,East,4,172.54,690.16
+2025-07-11,Smartphone,Electronics,South,4,606.25,2425.0
+2025-07-11,Laptop,Electronics,West,2,848.94,1697.88
+2025-07-12,Notebook Pack,Stationery,South,48,12.24,587.52
+2025-07-14,Smartphone,Electronics,East,3,627.19,1881.57
+2025-07-14,Laptop,Electronics,West,60,840.0,50400.0
+2025-07-15,Monitor,Electronics,South,5,244.04,1220.2
+2025-07-16,Notebook Pack,Stationery,East,23,11.96,275.08
+2025-07-19,Notebook Pack,Stationery,South,37,12.19,451.03
+2025-07-19,Monitor,Electronics,West,1,234.69,234.69
+2025-07-23,Smartphone,Electronics,West,3,595.7,1787.1
+2025-07-23,Smartphone,Electronics,East,2,595.32,1190.64
+2025-07-24,Office Chair,Furniture,West,6,175.04,1050.24
+2025-07-25,Monitor,Electronics,West,1,247.11,247.11
+2025-07-30,Office Chair,Furniture,South,7,185.86,1301.02
+2025-07-31,Pen Set,Stationery,North,20,7.98,159.6
+2025-08-01,Office Chair,Furniture,South,8,177.13,1417.04
+2025-08-02,Office Chair,Furniture,West,4,182.26,729.04
+2025-08-03,Headphones,Electronics,North,12,96.77,1161.24
+2025-08-03,Laptop,Electronics,West,3,844.83,2534.49
+2025-08-05,Smartphone,Electronics,East,3,594.28,1782.84
+2025-08-06,Laptop,Electronics,South,4,832.26,3329.04
+2025-08-08,Headphones,Electronics,North,12,95.77,1149.24
+2025-08-08,Smartphone,Electronics,West,5,625.96,3129.8
+2025-08-08,Monitor,Electronics,South,4,229.71,918.84
+2025-08-08,Pen Set,Stationery,West,35,7.94,277.9
+2025-08-09,Notebook Pack,Stationery,North,21,12.06,253.26
+2025-08-10,Pen Set,Stationery,West,49,8.05,394.45
+2025-08-11,Smartphone,Electronics,East,2,600.88,1201.76
+2025-08-15,Monitor,Electronics,North,1,245.31,245.31
+2025-08-15,Notebook Pack,Stationery,West,27,12.0,324.0
+2025-08-16,Office Chair,Furniture,South,6,177.33,1063.98
+2025-08-18,Monitor,Electronics,North,3,247.84,743.52
+2025-08-20,Monitor,Electronics,East,4,249.8,999.2
+2025-08-21,Notebook Pack,Stationery,South,11,11.51,126.61
+2025-08-23,Office Chair,Furniture,South,1,180.96,180.96
+2025-08-23,Pen Set,Stationery,East,72,7.68,552.96
+2025-08-24,Headphones,Electronics,East,5,96.81,484.05
+2025-08-24,Standing Desk,Furniture,West,3,440.18,1320.54
+2025-08-27,Smartphone,Electronics,North,2,607.74,1215.48
+2025-08-31,Laptop,Electronics,West,4,817.2,3268.8
+2025-09-02,Smartphone,Electronics,South,4,627.78,2511.12
+2025-09-02,Smartphone,Electronics,West,3,642.92,1928.76
+2025-09-04,Notebook Pack,Stationery,North,55,11.75,646.25
+2025-09-06,Headphones,Electronics,West,6,96.54,579.24
+2025-09-08,Pen Set,Stationery,South,50,8.2,410.0
+2025-09-09,Smartphone,Electronics,East,4,649.08,2596.32
+2025-09-09,Headphones,Electronics,West,8,98.47,787.76
+2025-09-11,Pen Set,Stationery,West,40,8.06,322.4
+2025-09-13,Pen Set,Stationery,East,68,7.67,521.56
+2025-09-15,Pen Set,Stationery,South,13,8.38,108.94
+2025-09-15,Office Chair,Furniture,South,7,179.2,1254.4
+2025-09-16,Headphones,Electronics,East,8,97.23,777.84
+2025-09-16,Headphones,Electronics,South,12,91.24,1094.88
+2025-09-18,Headphones,Electronics,North,3,94.63,283.89
+2025-09-18,Smartphone,Electronics,North,5,620.51,3102.55
+2025-09-19,Office Chair,Furniture,North,5,181.37,906.85
+2025-09-20,Monitor,Electronics,North,6,248.06,1488.36
+2025-09-20,Notebook Pack,Stationery,West,29,12.06,349.74
+2025-09-23,Monitor,Electronics,West,4,233.85,935.4
+2025-09-23,Pen Set,Stationery,South,29,8.0,232.0
+2025-09-25,Notebook Pack,Stationery,South,51,11.93,608.43
+2025-09-25,Laptop,Electronics,South,2,886.35,1772.7
+2025-09-26,Standing Desk,Furniture,West,3,429.49,1288.47
+2025-09-27,Pen Set,Stationery,East,79,7.97,629.63
+2025-09-27,Office Chair,Furniture,West,8,186.57,1492.56
+2025-09-29,Smartphone,Electronics,North,4,610.07,2440.28
+2025-10-01,Pen Set,Stationery,South,46,8.14,374.44
+2025-10-02,Office Chair,Furniture,North,5,188.95,944.75
+2025-10-02,Pen Set,Stationery,West,46,8.22,378.12
+2025-10-03,Smartphone,Electronics,West,4,648.97,2595.88
+2025-10-05,Headphones,Electronics,East,4,90.96,363.84
+2025-10-05,Monitor,Electronics,East,4,234.13,936.52
+2025-10-06,Laptop,Electronics,West,3,861.81,2585.43
+2025-10-08,Office Chair,Furniture,South,4,182.18,728.72
+2025-10-10,Headphones,Electronics,South,5,95.3,476.5
+2025-10-10,Headphones,Electronics,South,5,91.51,457.55
+2025-10-10,Notebook Pack,Stationery,South,17,11.96,203.32
+2025-10-11,Notebook Pack,Stationery,West,41,12.45,510.45
+2025-10-13,Pen Set,Stationery,North,58,8.06,467.48
+2025-10-14,Notebook Pack,Stationery,South,29,11.64,337.56
+2025-10-15,Laptop,Electronics,South,2,815.16,1630.32
+2025-10-18,Pen Set,Stationery,South,74,8.33,616.42
+2025-10-19,Notebook Pack,Stationery,North,21,11.49,241.29
+2025-10-19,Monitor,Electronics,West,1,251.47,251.47
+2025-10-21,Smartphone,Electronics,East,1,608.15,608.15
+2025-10-22,Headphones,Electronics,North,12,97.64,1171.68
+2025-10-22,Notebook Pack,Stationery,West,53,12.41,657.73
+2025-10-23,Monitor,Electronics,North,3,247.11,741.33
+2025-10-24,Laptop,Electronics,West,1,845.21,845.21
+2025-10-26,Pen Set,Stationery,South,60,8.12,487.2
+2025-10-26,Office Chair,Furniture,North,7,171.25,1198.75
+2025-10-27,Smartphone,Electronics,West,4,648.98,2595.92
+2025-10-28,Pen Set,Stationery,North,68,7.61,517.48
+2025-10-28,Headphones,Electronics,West,10,93.86,938.6
+2025-10-28,Headphones,Electronics,West,9,98.92,890.28
+2025-11-01,Office Chair,Furniture,West,6,187.47,1124.82
+2025-11-02,Smartphone,Electronics,South,1,635.23,635.23
+2025-11-02,Pen Set,Stationery,West,64,8.15,521.6
+2025-11-03,Laptop,Electronics,North,4,815.71,3262.84
+2025-11-04,Pen Set,Stationery,South,55,7.65,420.75
+2025-11-05,Headphones,Electronics,South,10,94.23,942.3
+2025-11-05,Laptop,Electronics,South,3,839.88,2519.64
+2025-11-06,Smartphone,Electronics,West,2,589.92,1179.84
+2025-11-07,Notebook Pack,Stationery,East,11,11.46,126.06
+2025-11-07,Headphones,Electronics,West,8,93.47,747.76
+2025-11-08,Notebook Pack,Stationery,East,39,12.49,487.11
+2025-11-08,Headphones,Electronics,North,11,90.28,993.08
+2025-11-09,Smartphone,Electronics,North,4,594.68,2378.72
+2025-11-10,Notebook Pack,Stationery,North,12,12.54,150.48
+2025-11-10,Pen Set,Stationery,North,40,8.31,332.4
+2025-11-11,Monitor,Electronics,North,5,232.92,1164.6
+2025-11-12,Smartphone,Electronics,South,2,642.04,1284.08
+2025-11-15,Headphones,Electronics,West,7,94.3,660.1
+2025-11-16,Office Chair,Furniture,West,5,171.59,857.95
+2025-11-16,Headphones,Electronics,South,11,91.29,1004.19
+2025-11-16,Notebook Pack,Stationery,South,15,11.79,176.85
+2025-11-17,Monitor,Electronics,East,6,246.8,1480.8
+2025-11-18,Smartphone,Electronics,South,3,625.24,1875.72
+2025-11-18,Office Chair,Furniture,East,7,177.36,1241.52
+2025-11-20,Standing Desk,Furniture,South,4,403.17,1612.68
+2025-11-20,Monitor,Electronics,North,5,233.11,1165.55
+2025-11-22,Monitor,Electronics,West,6,250.15,1500.9
+2025-11-22,Pen Set,Stationery,South,16,8.37,133.92
+2025-11-23,Smartphone,Electronics,East,5,633.69,3168.45
+2025-11-24,Notebook Pack,Stationery,West,51,11.52,587.52
+2025-11-24,Headphones,Electronics,North,2,95.82,191.64
+2025-11-26,Notebook Pack,Stationery,East,11,11.61,127.71
+2025-11-27,Notebook Pack,Stationery,South,53,11.68,619.04
+2025-11-27,Notebook Pack,Stationery,North,23,12.38,284.74
+2025-11-28,Pen Set,Stationery,West,79,7.8,616.2
+2025-11-28,Notebook Pack,Stationery,South,51,12.56,640.56
+2025-12-01,Laptop,Electronics,East,4,843.19,3372.76
+2025-12-02,Headphones,Electronics,South,3,98.44,295.32
+2025-12-03,Notebook Pack,Stationery,West,15,12.14,182.1
+2025-12-03,Standing Desk,Furniture,North,2,428.72,857.44
+2025-12-04,Headphones,Electronics,North,12,96.7,1160.4
+2025-12-04,Headphones,Electronics,West,4,97.86,391.44
+2025-12-05,Office Chair,Furniture,South,3,184.34,553.02
+2025-12-06,Laptop,Electronics,East,2,884.5,1769.0
+2025-12-08,Smartphone,Electronics,North,2,626.35,1252.7
+2025-12-10,Notebook Pack,Stationery,East,32,12.01,384.32
+2025-12-10,Headphones,Electronics,North,7,98.15,687.05
+2025-12-10,Headphones,Electronics,West,12,95.93,1151.16
+2025-12-11,Smartphone,Electronics,South,3,637.16,1911.48
+2025-12-12,Smartphone,Electronics,South,2,639.05,1278.1
+2025-12-12,Headphones,Electronics,West,12,97.99,1175.88
+2025-12-13,Pen Set,Stationery,West,38,7.87,299.06
+2025-12-14,Smartphone,Electronics,South,2,620.02,1240.04
+2025-12-15,Notebook Pack,Stationery,West,38,12.22,464.36
+2025-12-15,Standing Desk,Furniture,East,3,414.66,1243.98
+2025-12-16,Office Chair,Furniture,South,4,184.59,738.36
+2025-12-16,Standing Desk,Furniture,South,2,415.6,831.2
+2025-12-17,Headphones,Electronics,East,2,94.52,189.04
+2025-12-19,Office Chair,Furniture,West,3,173.83,521.49
+2025-12-19,Headphones,Electronics,South,12,94.22,1130.64
+2025-12-20,Laptop,Electronics,North,4,863.76,3455.04
+2025-12-20,Laptop,Electronics,North,2,872.72,1745.44
+2025-12-20,Headphones,Electronics,West,7,91.09,637.63
+2025-12-21,Headphones,Electronics,South,9,94.45,850.05
+2025-12-22,Standing Desk,Furniture,West,3,434.51,1303.53
+2025-12-22,Pen Set,Stationery,South,33,7.82,258.06
+2025-12-25,Monitor,Electronics,South,1,232.35,232.35
+2025-12-25,Monitor,Electronics,South,1,239.94,239.94
+2025-12-25,Notebook Pack,Stationery,North,59,12.15,716.85
+2025-12-26,Office Chair,Furniture,North,8,180.02,1440.16
+2025-12-27,Notebook Pack,Stationery,South,35,12.43,435.05
+2025-12-28,Office Chair,Furniture,West,1,181.96,181.96
+2025-12-28,Smartphone,Electronics,South,4,621.49,2485.96
+2025-12-29,Office Chair,Furniture,East,6,186.56,1119.36
+2025-12-31,Laptop,Electronics,North,3,891.0,2673.0
