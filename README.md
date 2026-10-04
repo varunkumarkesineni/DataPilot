@@ -649,8 +649,6 @@ Designed to demonstrate aggregation, filtering, comparison, ranking, trends and 
 
 **Varun Kumar Kesineni**
 
-Data Analytics | Data + AI | Generative AI
-
 ---
 
 Released under the [MIT License](LICENSE).
