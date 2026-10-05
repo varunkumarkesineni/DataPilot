@@ -254,7 +254,6 @@ DataPilot-AI/
 11. **Persist:** successful analyses are saved to Firestore and listed in the **History** tab and sidebar.
 
 ## 11. Design Decisions
-
 | Decision | Reasoning |
 |---|---|
 | **Pandas computes, Gemini explains** | Eliminates hallucinated numbers. Every figure is reproducible. |
