@@ -361,7 +361,7 @@ streamlit run app.py
 In `.env`, replace the placeholder with your real key from [Google AI Studio](https://aistudio.google.com/apikey):
 
 ```env
-GEMINI_API_KEY="AQ.Ab8RN6Jd-HFblgEf1trsg3PaTLRYgSoXXXXXXXXXXXXXXXXX-xxx"
+GEMINI_API_KEY="XX.XXXXXXb8RN6Jd-HFblgEf1trsg3PaTLRYgSoXXXXXXXXXXXXXXXXX-xxx"
 ```
 
 The app opens at **http://localhost:8501**.
